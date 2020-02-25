@@ -1,0 +1,18 @@
+spring:
+  http:
+    # 指定 Jersey 中文编码
+    encoding:
+      force: true
+      charset: utf-8
+server:
+  # 指定服务端口
+  port: 8888
+  session-timeout: 1800
+
+jackson:
+  default-property-inclusion: non_null
+  serialization:
+    indent-output: true
+  date-format: yyyy-MM-dd HH:mm:ss
+  parser:
+    allow-missing-values: true

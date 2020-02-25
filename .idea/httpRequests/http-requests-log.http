@@ -1,0 +1,40 @@
+GET http://localhost:8888/jersey
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-23T111039.404.json
+
+###
+
+GET http://localhost:8888/jersey
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-23T111025.404.json
+
+###
+
+GET http://localhost:8888/jersey
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-23T111020.404.json
+
+###
+
+GET http://localhost:8888/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-23T111007.404.json
+
+###
+
+GET http://localhost:8888/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-02-23T110749.404.json
+
+###
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cxf-jaxrs-server/cxf-jaxrs-server.iml" filepath="$PROJECT_DIR$/cxf-jaxrs-server/cxf-jaxrs-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-jaxws-client/cxf-jaxws-client.iml" filepath="$PROJECT_DIR$/cxf-jaxws-client/cxf-jaxws-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-jaxws-server/cxf-jaxws-server.iml" filepath="$PROJECT_DIR$/cxf-jaxws-server/cxf-jaxws-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_jaxws_server/cxf_jaxws_server.iml" filepath="$PROJECT_DIR$/java_jaxws_server/cxf_jaxws_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_jaxws_client/java_jaxws_client.iml" filepath="$PROJECT_DIR$/java_jaxws_client/java_jaxws_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_jaxws_client2/java_jaxws_client2.iml" filepath="$PROJECT_DIR$/java_jaxws_client2/java_jaxws_client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_jaxws_server/java_jaxws_server.iml" filepath="$PROJECT_DIR$/java_jaxws_server/java_jaxws_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jersey-jaxrs-server/jersey-jaxrs-server.iml" filepath="$PROJECT_DIR$/jersey-jaxrs-server/jersey-jaxrs-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxf-jaxws-client/src/main/main.iml" filepath="$PROJECT_DIR$/cxf-jaxws-client/src/main/main.iml" />
+    </modules>
+  </component>
+</project>

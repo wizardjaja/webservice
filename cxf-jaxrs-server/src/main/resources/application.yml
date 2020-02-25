@@ -1,0 +1,11 @@
+server:
+  port: 8888
+
+cxf:
+  path: /soap
+  jaxrs:
+    component-scan: true
+
+
+
+

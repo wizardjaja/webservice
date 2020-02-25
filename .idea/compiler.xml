@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cxf-jaxrs-server" />
+        <module name="cxf_jaxws_server" />
+        <module name="cxf-jaxws-server" />
+        <module name="jersey-jaxrs-server" />
+        <module name="cxf-jaxws-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cxf-jaxrs-server" target="1.8" />
+      <module name="cxf-jaxws-client" target="1.8" />
+      <module name="cxf-jaxws-server" target="1.8" />
+      <module name="cxf_jaxws_server" target="1.8" />
+      <module name="jersey-jaxrs-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cxf-jaxrs-server" options="-parameters" />
+      <module name="cxf-jaxws-client" options="-parameters" />
+      <module name="cxf-jaxws-server" options="-parameters" />
+      <module name="cxf_jaxws_server" options="-parameters" />
+      <module name="jersey-jaxrs-server" options="-parameters" />
+    </option>
+  </component>
+</project>

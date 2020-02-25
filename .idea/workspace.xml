@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc096463-06b4-477b-96c7-e4a86cca82a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="BpmnFile" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tool/maven/maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XBgthPUXYPk7xtUR0IDBKyzR6r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cxf-jaxws-client" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wizard\IdeaProjects\web-service\cxf-jaxws-client\lib" />
+      <recent name="C:\Users\wizard\IdeaProjects\web-service\java_jaxws_server" />
+      <recent name="C:\Users\wizard\IdeaProjects\web-service\java_jaxws_client" />
+      <recent name="C:\Users\wizard\IdeaProjects\web-service\java_jaxws_client\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wizard.config" />
+      <recent name="com.wizard.weather" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wizard\IdeaProjects\web-service\cxf-jaxws-client\src\main\java\com\wizard" />
+      <recent name="C:\Users\wizard\IdeaProjects\web-service\cxf-jaxws-client\src\main\java" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8888" />
+          <option name="urlPath" value="/jersey" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8888" />
+          <option name="urlPath" value="/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JerseyJaxrsServerApplication">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wizard.weather.Application" />
+      <module name="java_jaxws_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wizard.weather.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wizard.weather.Application" />
+      <module name="java_jaxws_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wizard.weather.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WsimportApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wizard.weather.WsimportApplication" />
+      <module name="java_jaxws_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wizard.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WsimportApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wizard.weather.WsimportApplication" />
+      <module name="java_jaxws_client2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wizard.weather.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CxfJaxwsClientApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cxf-jaxws-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wizard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wizard" />
+      <option name="MAIN_CLASS_NAME" value="com.wizard.CxfJaxwsClientApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CxfJaxwsServerApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cxf-jaxws-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wizard.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wizard.weather" />
+      <option name="MAIN_CLASS_NAME" value="com.wizard.weather.CxfJaxwsServerApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CxfJaxrsServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cxf-jaxrs-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wizard.CxfJaxrsServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CxfJaxwsClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cxf-jaxws-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wizard.CxfJaxwsClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CxfJaxwsServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cxf-jaxws-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wizard.weather.CxfJaxwsServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JerseyJaxrsServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jersey-jaxrs-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wizard.JerseyJaxrsServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CxfJaxwsClientApplicationTests.contextLoads" />
+        <item itemvalue="Application.WsimportApplication (1)" />
+        <item itemvalue="JUnit.CxfJaxwsServerApplicationTests.contextLoads" />
+        <item itemvalue="Application.WsimportApplication" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc096463-06b4-477b-96c7-e4a86cca82a2" name="Default Changelist" comment="" />
+      <created>1580525117369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580525117369</updated>
+      <workItem from="1580525120973" duration="11466000" />
+      <workItem from="1580606915416" duration="2768000" />
+      <workItem from="1580718685028" duration="2428000" />
+      <workItem from="1580780725034" duration="257000" />
+      <workItem from="1580954001627" duration="3942000" />
+      <workItem from="1580978448595" duration="1867000" />
+      <workItem from="1581151100260" duration="665000" />
+      <workItem from="1581730622672" duration="744000" />
+      <workItem from="1581732227694" duration="942000" />
+      <workItem from="1581838546402" duration="916000" />
+      <workItem from="1581855835382" duration="664000" />
+      <workItem from="1582208098094" duration="4709000" />
+      <workItem from="1582349279570" duration="3464000" />
+      <workItem from="1582378210146" duration="6208000" />
+      <workItem from="1582395087056" duration="40000" />
+      <workItem from="1582461366391" duration="571000" />
+      <workItem from="1582461978399" duration="4286000" />
+      <workItem from="1582484835272" duration="6000" />
+      <workItem from="1582649170407" duration="1288000" />
+      <workItem from="1582650496619" duration="1008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="998" y="177" key="#Notifications" timestamp="1582650883605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="998" y="177" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1582650883605" />
+    <state x="552" y="181" key="#Project_Structure" timestamp="1582214406007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582214406007" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1582390936619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582390936619" />
+    <state x="744" y="386" width="439" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580547030831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="386" width="439" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1580547030831" />
+    <state x="694" y="280" key="#com.intellij.ws.actions.GenerateWsdlFromJavaDialog" timestamp="1582394364741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="280" key="#com.intellij.ws.actions.GenerateWsdlFromJavaDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582394364741" />
+    <state x="740" y="213" key="FileChooserDialogImpl" timestamp="1582650459358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="213" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582650459358" />
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom" timestamp="1582470774685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582470774685" />
+    <state width="1877" height="283" key="GridCell.Tab.0.center" timestamp="1582470774685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582470774685" />
+    <state width="1877" height="283" key="GridCell.Tab.0.left" timestamp="1582470774685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582470774685" />
+    <state width="1877" height="283" key="GridCell.Tab.0.right" timestamp="1582470774685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582470774685" />
+    <state width="1877" height="283" key="GridCell.Tab.1.bottom" timestamp="1582470774686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582470774686" />
+    <state width="1877" height="283" key="GridCell.Tab.1.center" timestamp="1582470774686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582470774686" />
+    <state width="1877" height="283" key="GridCell.Tab.1.left" timestamp="1582470774685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582470774685" />
+    <state width="1877" height="283" key="GridCell.Tab.1.right" timestamp="1582470774686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="283" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582470774686" />
+    <state x="600" y="223" key="NewModule_or_Project.wizard" timestamp="1582378535958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582378535958" />
+    <state x="926" y="143" key="SettingsEditor" timestamp="1582650463917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="926" y="143" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582650463917" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1582650498075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582650498075" />
+    <state x="335" y="136" key="new project wizard" timestamp="1582465058065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="335" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582465058065" />
+    <state x="640" y="377" width="672" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1581856039556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="377" width="672" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581856039556" />
+    <state x="1147" y="242" key="run.anything.popup" timestamp="1580544517490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1147" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580544517490" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582378484608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582378484608" />
+  </component>
+</project>
